@@ -1,0 +1,56 @@
+body{
+    margin: 16px;
+    color: rgb(221, 4, 221);
+    padding: 16px;
+    background-color: rgb(198, 131, 23);
+}
+
+.okenko{
+    background: rgb(121, 219, 233);
+    margin: 4px;
+    padding: 16px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 25px 16px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+button{
+    border-radius: 10px;
+
+}
+
+header{
+    background-color: rgb(94,173,238)
+    margin: 0;
+    padding: 4px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+nav{
+    margin: 0;
+    padding: 4px;
+}
+
+ul{
+    margin: 0;
+    padding: 16px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nadpis{
+    margin: 16px;
+    padding: 16px;
+}
+
+body{
+    background-image: url("https://d1ymz67w5raq8g.cloudfront.net/Pictures/1024x536/1/9/6/519196_gettyimages1270593514_590256.jpg");
+    margin: ;
+}
+
+
